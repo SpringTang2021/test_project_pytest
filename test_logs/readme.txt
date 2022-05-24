@@ -1,0 +1,1 @@
+pytest will automatically create a log file with name using running datetime when pytest run
