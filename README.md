@@ -7,9 +7,8 @@ this is a test project example with test elements organized using pytest mechani
 
 ## how to run
 1. pull the code under a working path
-   using git clone https://github.com/SpringTang2021/test_project_pytest
-   or 
-   download zip file
+   * using git clone https://github.com/SpringTang2021/test_project_pytest
+   * or download zip file
    assume my working place is as follows: 
    D:\dev_box\test_project_pytest>
    
