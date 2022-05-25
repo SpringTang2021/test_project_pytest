@@ -26,3 +26,6 @@ this is a test project example with test elements organized using pytest mechani
  1. command line log output
  2. log file with name of running datetime under test_logs
  
+## test project organization design
+
+## the pytest features used
