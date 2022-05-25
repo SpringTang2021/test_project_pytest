@@ -1,11 +1,12 @@
 # test_project_pytest
 this is a test project example with test elements organized using pytest mechanism
 
-## verified running environment
+## about running this project
+### verified running environment
 1. python3.10.4 + windows32 (recommended)
 2. python 2.7.18  + windows32
 
-## how to run
+### how to run
 1. pull the code under a working path
    * using git clone https://github.com/SpringTang2021/test_project_pytest
    * or download zip file
@@ -21,7 +22,7 @@ this is a test project example with test elements organized using pytest mechani
    * run one test suite in a group
      D:\dev_box\test_project_pytest> pytest  test_project\group_function_name1\test_function_name1_x1>test_function_name1_x1_suite1.py
  
- ## about logging
+ ### about logging
  1. command line log output
  2. log file with name of running datetime under test_logs
  
